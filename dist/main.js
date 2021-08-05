@@ -16,7 +16,7 @@
   \**************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__);\n// Imports\n\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \"\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://restaurant-project/./src/styles.css?./node_modules/css-loader/dist/cjs.js");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0__);\n// Imports\n\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \"\\n.container{\\n    display:flex;\\n    justify-content: center;\\n    list-style-type: none;\\n    margin: 0;\\n    padding: 0;\\n    overflow: hidden;\\n    height:70px;\\n    align-items: center;\\n    width:100%;\\n    \\n    \\n   \\n}\\n.icon{\\n    position: relative;\\n    right:20%;\\n\\n}\\n\\n.tabs{\\n    margin: 50px;\\n    color:white;\\n    font-weight: 300;\\n    padding: 14px 16px;\\n    text-align: center;\\n    font-size:20px;\\n\\n    text-decoration: none;\\n   \\n}\\nbody {\\n    height: 90vh;\\n    padding: 0;\\n    background-color:rgb(22, 21, 21) ;\\n  }\\n  body {\\n    min-height: 90vh;\\n    padding: 0;\\n  }\\n.home{\\n    width:100%;\\n    display:grid;\\n    grid-template-columns: 0.9fr 0.5fr;\\n    height:70vh;\\n   \\n\\n}\\n.first{\\n    height:300px;\\n    width:80%;\\n    display:flex;\\n    flex-direction: column;\\n    align-items: center;\\n    justify-content: center;\\n    background-color: rgb(69, 143, 109,0.1);\\n}\\n.explore{\\n    position: relative;\\n    top:5%;\\n    width:30%;\\n    height:10%;\\n    outline:1px solid rgb(153, 131, 9) ;\\n    background-color: rgba(207, 182, 70, 0.2);\\n}\\n.maindec{\\n   display: flex;\\n   flex-direction: column;\\n   justify-content:center;\\n   align-items: center;\\n  background-color: rgb(22, 21, 21);\\n}\\n.ser{\\n    font-size: 80px;\\n    color:wheat\\n}\\n\\n.line{\\n    width:50%;\\n    background-color: rgb(73, 59, 34);\\n    height:3px;\\n}\\n\\n.para{\\n    color:wheat\\n}\\n.image{\\n    \\n    display: flex;\\n    justify-content: flex-end;\\n    background-color: rgb(22, 21, 21);\\n\\n}\\n\\n.fud{\\n    height:700px;\\n    position: relative;\\n    width: 100%;\\n    \\n}\\n.image2{\\n    background-color: rgb(22, 21, 21);\\n}\\n.font{\\n    width:50%;\\n    height:90px;\\n}\\n.exp{\\n    display:flex;\\n    justify-content: center;\\n    align-items: center;\\n  \\n    color:rgb(42, 28, 14);\\n}\\n\\n.b{\\n    width:50px;\\n    height:50px;\\n    background-color:green;\\n}\\n.block1{\\n    display:flex;\\n    width:100%;\\n    height:30%;\\n    background: #1f4037;  /* fallback for old browsers */\\n    background: -webkit-linear-gradient(to right, #14201a, #168b2f);  /* Chrome 10-25, Safari 5.1-6 */\\n    background: linear-gradient(to right, #0f1412, #143114); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */\\n    justify-content: center;\\n    align-items: center;\\n    flex-direction: column;\\n\\n}\\n.menu{\\n    color:rgb(238, 209, 155);\\n    font-size: 50px;\\n\\n}\\n.tagline{\\n    color:rgb(236, 194, 138);\\n}\\n.mainmenu{\\n    display:grid;\\n    width:100%;\\n    height:70vh;\\n    grid-template-columns: 1fr 1fr 1fr;\\n\\n}\\n.op1{\\n   \\n    display:flex;\\n    justify-content: center;\\n    align-items: center;\\n}\\n\\n.op2{\\n    background-color: rgb(153, 131, 9);\\n}\\n.op3{\\n    background-color: rgb(209, 171, 100);\\n}\\n.im1{\\n    width:70%;\\n    height:80%;\\n}\\n.card1{\\n    width:70%;\\n    height:80%;\\n    background-color: rgba(138, 93, 9, 0.1);\\n    display:flex;\\n    justify-content: center;\\n    align-items:center;\\n    flex-direction: column;\\n    border:2px solid rgb(224, 193, 134);\\n\\n    \\n}\\n.card2{\\n    flex-direction: column;\\n    width:70%;\\n    height:80%;\\n    background-color:rgba(241, 161, 12, 0.3);\\n    display:flex;\\n    justify-content: center;\\n    align-items: center;\\n    border:2px solid rgb(177, 119, 11);\\n\\n\\n\\n}\\n.card3{\\n    flex-direction: column;\\n    width:70%;\\n    height:80%;\\n    background-color:rgba(248, 236, 68, 0.3);\\n    display:flex;\\n    justify-content: center;\\n    align-items: center;\\n    border:2px solid rgb(242, 177, 226);\\n\\n\\n}\\n.desserts{\\n    font-size: 35px;\\n    color:wheat;\\n}\\n.entree{\\n    font-size: 35px;\\n    color:wheat;\\n    \\n}\\n.drinks{\\n    font-size: 35px;\\n    color:wheat;\\n\\n}\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://restaurant-project/./src/styles.css?./node_modules/css-loader/dist/cjs.js");
 
 /***/ }),
 
@@ -100,13 +100,73 @@ eval("\n\n/* istanbul ignore next  */\nfunction styleTagTransform(css, style) {\
 
 /***/ }),
 
+/***/ "./src/drinks.jpg":
+/*!************************!*\
+  !*** ./src/drinks.jpg ***!
+  \************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"9a6bbc77e86763607f93.jpg\";\n\n//# sourceURL=webpack://restaurant-project/./src/drinks.jpg?");
+
+/***/ }),
+
+/***/ "./src/entree.jpg":
+/*!************************!*\
+  !*** ./src/entree.jpg ***!
+  \************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"d3cc3558c16c45607cde.jpg\";\n\n//# sourceURL=webpack://restaurant-project/./src/entree.jpg?");
+
+/***/ }),
+
+/***/ "./src/home.js":
+/*!*********************!*\
+  !*** ./src/home.js ***!
+  \*********************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"homePageContents\": () => (/* binding */ homePageContents)\n/* harmony export */ });\n/* harmony import */ var _main_jpg__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./main.jpg */ \"./src/main.jpg\");\n\n\n\n\nconst homePageContents = (function(){\n    const content = document.getElementById(\"content\")\n    const imageConatiner = document.createElement(\"div\")\n    const homeContent = document.createElement(\"div\")\n    const maindec = document.createElement(\"div\")\n    const mainBox = document.createElement(\"div\")\n    const mainText = document.createElement(\"div\")\n    const linebr = document.createElement(\"br\")\n    const para = document.createElement(\"p\")\n    const line = document.createElement(\"div\")\n    const linebr2 = document.createElement(\"br\")\n    const linebr3 = document.createElement(\"br\")\n    const explorebtn = document.createElement(\"div\")\n    const exploretxt = document.createElement(\"h1\")\n    const img = new Image()\n    img.src = _main_jpg__WEBPACK_IMPORTED_MODULE_0__\n\n    img.classList.add(\"fud\")\n    imageConatiner.classList.add(\"image\")\n    homeContent.classList.add(\"home\")\n    explorebtn.classList.add(\"explore\")\n    exploretxt.classList.add(\"exp\")\n    para.classList.add(\"para\")\n    maindec.classList.add(\"maindec\")\n    mainBox.classList.add(\"first\")\n    mainText.classList.add(\"ser\")\n    line.classList.add(\"line\")\n    mainText.textContent = \"Chaashni\"\n    para.textContent = \"where it feels like home\"\n    exploretxt.textContent = \"Explore\"\n\n    const loadHomepage = function(){\n        mainBox.appendChild(mainText)\n        mainBox.appendChild(linebr)\n        mainBox.appendChild(para)\n        mainBox.appendChild(line)\n        maindec.appendChild(mainBox)\n        homeContent.appendChild(maindec)\n        mainBox.appendChild(mainText)\n        explorebtn.appendChild(exploretxt)\n        maindec.appendChild(linebr2)\n        maindec.appendChild(linebr3)\n        maindec.appendChild(explorebtn)\n        homeContent.appendChild(imageConatiner)\n        imageConatiner.appendChild(img)\n        content.appendChild(homeContent)\n\n    }\n    return {loadHomepage,homeContent}\n\n\n\n})()\n\n\n\n//# sourceURL=webpack://restaurant-project/./src/home.js?");
+
+/***/ }),
+
 /***/ "./src/index.js":
 /*!**********************!*\
   !*** ./src/index.js ***!
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _styles_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./styles.css */ \"./src/styles.css\");\n\nconst body = document.querySelector(\"body\")\nbody.style.background = \"blue\"\n\n//# sourceURL=webpack://restaurant-project/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _styles_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./styles.css */ \"./src/styles.css\");\n/* harmony import */ var _menu__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./menu */ \"./src/menu.js\");\n/* harmony import */ var _home__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./home */ \"./src/home.js\");\n\n\n\n\n\n\n\nconst content = document.getElementById(\"content\")\nconst mainNav = document.createElement(\"div\")\nconst navBar = document.createElement(\"div\")\nconst navBarConatiner = document.createElement(\"ul\")\nconst homeTab = document.createElement(\"li\")\nconst menuTab = document.createElement(\"li\")\nconst AboutTab = document.createElement(\"li\")\nconst contactTab = document.createElement(\"li\")\nnavBar.setAttribute(\"id\",\"nav\")\nAboutTab.classList.add(\"tabs\")\nhomeTab.classList.add(\"tabs\")\nmenuTab.classList.add(\"tabs\")\ncontactTab.classList.add(\"tabs\")\nnavBarConatiner.classList.add(\"container\")\nmainNav.classList.add(\"contain\")\nhomeTab.textContent = \"Home\"\nAboutTab.textContent = \"About\"\ncontactTab.textContent =\"Contact\"\nmenuTab.textContent = \"Menu\"\nnavBarConatiner.appendChild(homeTab)\nnavBarConatiner.appendChild(menuTab)\nnavBarConatiner.appendChild(AboutTab)\nnavBarConatiner.appendChild(contactTab)\nnavBar.appendChild(navBarConatiner)\nmainNav.appendChild(navBar)\ncontent.appendChild(mainNav)\n\n\n\n_home__WEBPACK_IMPORTED_MODULE_2__.homePageContents.loadHomepage()\nhomeTab.addEventListener(\"click\",loadHomePage1)\nfunction loadHomePage1(){\n    if(_home__WEBPACK_IMPORTED_MODULE_2__.homePageContents.homeContent.classList.contains(\"home\")){\n        return\n    }else{\n        _home__WEBPACK_IMPORTED_MODULE_2__.homePageContents.homeContent.classList.add(\"home\")\n    }\n    _home__WEBPACK_IMPORTED_MODULE_2__.homePageContents.homeContent.innerHTML = \"\"\n    _home__WEBPACK_IMPORTED_MODULE_2__.homePageContents.loadHomepage()\n    \n    \n\n}\n\n\n\nmenuTab.addEventListener(\"click\",function(){\n    _home__WEBPACK_IMPORTED_MODULE_2__.homePageContents.homeContent.innerHTML = \"\";\n    _menu__WEBPACK_IMPORTED_MODULE_1__.menu.loadMenuPage()\n\n})\n\n\n\n\n//# sourceURL=webpack://restaurant-project/./src/index.js?");
+
+/***/ }),
+
+/***/ "./src/main.jpg":
+/*!**********************!*\
+  !*** ./src/main.jpg ***!
+  \**********************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"24ffd2a91236aaeef983.jpg\";\n\n//# sourceURL=webpack://restaurant-project/./src/main.jpg?");
+
+/***/ }),
+
+/***/ "./src/menu.js":
+/*!*********************!*\
+  !*** ./src/menu.js ***!
+  \*********************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"menu\": () => (/* binding */ menu)\n/* harmony export */ });\n/* harmony import */ var _home__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./home */ \"./src/home.js\");\n/* harmony import */ var _entree_jpg__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./entree.jpg */ \"./src/entree.jpg\");\n/* harmony import */ var _sweets_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./sweets.jpg */ \"./src/sweets.jpg\");\n/* harmony import */ var _drinks_jpg__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./drinks.jpg */ \"./src/drinks.jpg\");\n\n\n\n\n\nconst menu = (function(){\n    const content = document.getElementById(\"content\")\n    const menuPage = document.createElement(\"div\")\n    const menuBox = document.createElement(\"div\")\n    const menutxt = document.createElement(\"div\")\n    const menutxtmeta = document.createElement(\"p\")\n    const lbr = document.createElement(\"br\")\n    const mainmenu = document.createElement(\"div\")\n    const firstOption = document.createElement(\"div\")\n    const secondOption = document.createElement(\"div\")\n    const thirdOption = document.createElement(\"div\")\n    const firstCard = document.createElement(\"div\")\n    const secondCard = document.createElement(\"div\")\n    const thirdCard = document.createElement(\"div\")\n    const entreePic = new Image()\n    const entreelbr = document.createElement(\"br\")\n    const entreeTxt = document.createElement(\"div\")\n    entreePic.src = _entree_jpg__WEBPACK_IMPORTED_MODULE_1__\n    const drinksPic = new Image()\n    drinksPic.src = _drinks_jpg__WEBPACK_IMPORTED_MODULE_3__ \n    const sweetsPic = new Image()\n    sweetsPic.src = _sweets_jpg__WEBPACK_IMPORTED_MODULE_2__\n    const sweetslbr = document.createElement(\"br\")\n    const drinklbr = document.createElement(\"br\")\n    const sweetsTxt = document.createElement(\"div\")\n    const drinksTxt = document.createElement(\"div\")\n     \n    sweetsTxt.classList.add(\"desserts\")\n    drinksTxt.classList.add(\"drinks\")\n    sweetsPic.classList.add(\"im1\")\n    drinksPic.classList.add(\"im1\")\n    mainmenu.classList.add(\"mainmenu\")\n    entreeTxt.classList.add(\"entree\")\n    entreePic.classList.add(\"im1\")\n    firstCard.classList.add(\"card1\")\n    secondCard.classList.add(\"card2\")\n    thirdCard.classList.add(\"card3\")\n    firstOption.classList.add(\"op1\")\n    secondOption.classList.add(\"op1\")\n    thirdOption.classList.add(\"op1\")\n    menutxtmeta.classList.add(\"tagline\")\n    menutxt.classList.add(\"menu\")\n    menuBox.classList.add(\"block1\")\n    sweetsTxt.textContent= \"sweets\"\n    menutxt.textContent =  \"Menu\"\n    menutxtmeta.textContent = \"a wide range to choose from\"\n\n    const loadMenuPage = function(){\n        _home__WEBPACK_IMPORTED_MODULE_0__.homePageContents.homeContent.classList.remove(\"home\")\n        thirdCard.appendChild(sweetsPic)\n        thirdCard.appendChild(sweetslbr)\n        thirdCard.appendChild(sweetsTxt)\n        secondCard.appendChild(entreePic)\n        secondCard.appendChild(entreelbr)\n        secondCard.appendChild(entreeTxt)\n        firstCard.appendChild(drinksPic)\n        firstCard.appendChild(drinklbr)\n        firstCard.appendChild(drinksTxt)\n        firstOption.appendChild(firstCard)\n        secondOption.appendChild(secondCard)\n        thirdOption.appendChild(thirdCard)\n        mainmenu.appendChild(firstOption)\n        mainmenu.appendChild(secondOption)\n        mainmenu.appendChild(thirdOption)\n        menuBox.appendChild(menutxt)\n        menuBox.appendChild(menutxtmeta)\n        _home__WEBPACK_IMPORTED_MODULE_0__.homePageContents.homeContent.appendChild(menuBox)\n        content.appendChild(_home__WEBPACK_IMPORTED_MODULE_0__.homePageContents.homeContent)\n        _home__WEBPACK_IMPORTED_MODULE_0__.homePageContents.homeContent.appendChild(lbr)\n        _home__WEBPACK_IMPORTED_MODULE_0__.homePageContents.homeContent.appendChild(mainmenu)\n\n\n    }\n   \n    return { loadMenuPage}\n})()\n\n\n\n//# sourceURL=webpack://restaurant-project/./src/menu.js?");
+
+/***/ }),
+
+/***/ "./src/sweets.jpg":
+/*!************************!*\
+  !*** ./src/sweets.jpg ***!
+  \************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"e5456099d28d53aa2178.jpg\";\n\n//# sourceURL=webpack://restaurant-project/./src/sweets.jpg?");
 
 /***/ })
 
@@ -161,6 +221,18 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _sty
 /******/ 		};
 /******/ 	})();
 /******/ 	
+/******/ 	/* webpack/runtime/global */
+/******/ 	(() => {
+/******/ 		__webpack_require__.g = (function() {
+/******/ 			if (typeof globalThis === 'object') return globalThis;
+/******/ 			try {
+/******/ 				return this || new Function('return this')();
+/******/ 			} catch (e) {
+/******/ 				if (typeof window === 'object') return window;
+/******/ 			}
+/******/ 		})();
+/******/ 	})();
+/******/ 	
 /******/ 	/* webpack/runtime/hasOwnProperty shorthand */
 /******/ 	(() => {
 /******/ 		__webpack_require__.o = (obj, prop) => (Object.prototype.hasOwnProperty.call(obj, prop))
@@ -175,6 +247,26 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _sty
 /******/ 			}
 /******/ 			Object.defineProperty(exports, '__esModule', { value: true });
 /******/ 		};
+/******/ 	})();
+/******/ 	
+/******/ 	/* webpack/runtime/publicPath */
+/******/ 	(() => {
+/******/ 		var scriptUrl;
+/******/ 		if (__webpack_require__.g.importScripts) scriptUrl = __webpack_require__.g.location + "";
+/******/ 		var document = __webpack_require__.g.document;
+/******/ 		if (!scriptUrl && document) {
+/******/ 			if (document.currentScript)
+/******/ 				scriptUrl = document.currentScript.src
+/******/ 			if (!scriptUrl) {
+/******/ 				var scripts = document.getElementsByTagName("script");
+/******/ 				if(scripts.length) scriptUrl = scripts[scripts.length - 1].src
+/******/ 			}
+/******/ 		}
+/******/ 		// When supporting browsers where an automatic publicPath is not supported you must specify an output.publicPath manually via configuration
+/******/ 		// or pass an empty string ("") and set the __webpack_public_path__ variable from your code to use your own logic.
+/******/ 		if (!scriptUrl) throw new Error("Automatic publicPath is not supported in this browser");
+/******/ 		scriptUrl = scriptUrl.replace(/#.*$/, "").replace(/\?.*$/, "").replace(/\/[^\/]+$/, "/");
+/******/ 		__webpack_require__.p = scriptUrl;
 /******/ 	})();
 /******/ 	
 /************************************************************************/
