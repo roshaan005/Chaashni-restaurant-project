@@ -1,4 +1,4 @@
-import mainImg from "./main.jpg"
+import mainImg from "./images/main.jpg"
 
 
 

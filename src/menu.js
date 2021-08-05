@@ -1,7 +1,7 @@
 import { homePageContents } from "./home";
-import entree from "./entree.jpg"
-import sweets from "./sweets.jpg"
-import drinks from "./drinks.jpg"
+import entree from "./images/entree.jpg"
+import sweets from "./images/sweets.jpg"
+import drinks from "./images/drinks.jpg"
 
 const menu = (function(){
     const content = document.getElementById("content")
