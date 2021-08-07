@@ -47,7 +47,7 @@ const menu = (function(){
     menutxt.classList.add("menu")
     menuBox.classList.add("block1")
     sweetsTxt.textContent= "Desserts"
-    drinksTxt.textContent= "bevrages"
+    drinksTxt.textContent= "beverages"
     entreeTxt.textContent = "entree"
     menutxt.textContent =  "Menu"
     menutxtmeta.textContent = "a wide range to choose from"

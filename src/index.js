@@ -5,6 +5,7 @@ import { homePageContents } from "./home"
 import { contact } from "./contact"
 
 
+
 const content = document.getElementById("content")
 const mainNav = document.createElement("div")
 const navBar = document.createElement("div")
@@ -63,7 +64,11 @@ contactTab.addEventListener("click",function(){
 
 })
 
+homePageContents.explorebtn.addEventListener("click",function(){
+    homePageContents.homeContent.innerHTML = "";
+    menu.loadMenuPage()
 
+})
 
 
 

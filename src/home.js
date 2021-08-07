@@ -50,7 +50,7 @@ const homePageContents = (function(){
         content.appendChild(homeContent)
 
     }
-    return {loadHomepage,homeContent}
+    return {loadHomepage,homeContent,explorebtn}
 
 
 
